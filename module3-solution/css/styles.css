@@ -10,6 +10,13 @@ body {
   background-color: #f6b319;
   border-radius: 0;
   border: 0;
+  margin-left: -20px;
+  margin-right: -20px;
+}
+
+.container {
+  padding-left: 0px;
+  margin-left: 35px;
 }
 
 .navbar-brand {
